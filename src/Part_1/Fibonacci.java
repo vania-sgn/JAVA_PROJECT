@@ -24,6 +24,8 @@ public class Fibonacci {
             System.out.println(hi);
             hi=lo*hi;
             lo=hi/lo;
+            System.out.println(hi);
+            System.out.println(hi);
 
         }
     }
